@@ -1,5 +1,5 @@
 # yandex-sobes
 Тестовое задание на собесе в яндекс
 
-![Тестовое задание](https://github.com/Ra-Naun/pr.yandex-sobes/raw/master/image/ex1.png)
-![Тестовое задание](https://github.com/Ra-Naun/pr.yandex-sobes/raw/master/image/ex2.png)
+![Тестовое задание](https://github.com/Ra-Naun/pr.yandex-sobes/blob/master/image/ex1.jpg)
+![Тестовое задание](https://github.com/Ra-Naun/pr.yandex-sobes/blob/master/image/ex2.jpg)
